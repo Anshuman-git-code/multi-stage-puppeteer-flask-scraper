@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+scraped_data.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Docker
+*.tar
+*.log
+docker-compose.override.yml
+
+# macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
